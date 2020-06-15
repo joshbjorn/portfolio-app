@@ -1,0 +1,26 @@
+.project-info-container {
+    min-height: 100vh;
+}
+
+.info-main {
+    margin-bottom: 8rem;
+}
+
+.info-title {
+    font-size: 1.25rem;
+}
+
+.info-text {
+    font-family: 'Lato';
+    font-weight: 300;
+}
+
+.info-tags h3 {
+    font-size: 1rem;
+}
+
+.filter-section a, .filter-section span, .pp-outer-card p, .filter-section li, .skills-item p, .outer-card p {
+    font-family: 'Lato';
+    font-weight: 300;
+}
+

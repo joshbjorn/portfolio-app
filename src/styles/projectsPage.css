@@ -1,0 +1,71 @@
+.projects-page-container {
+    min-height: 100vh;
+}
+
+.projects-total-col {
+    padding-top: 1rem;
+    padding-left: 30px;
+}
+
+.p-filter-title {
+    display: flex; 
+    flex-flow: row nowrap; 
+    justify-content: space-between; 
+    
+    margin-bottom: 1rem;
+}
+
+.filter-section {
+    margin-bottom: 1.25rem;
+}
+
+.filter-section h4 {
+    margin-bottom: .5rem;
+    font-weight: 500;
+}
+
+.filter-section li {
+    margin-bottom: 0.25rem;
+}
+
+#view-all-filter {
+    color: #ff9f1c;
+}
+
+.f-tag:hover, #view-all-filter:hover {
+    cursor: pointer;
+    color: #ff9f1c !important;
+}
+
+.projects {
+    display: flex;
+    flex-flow: column nowrap;
+    margin-bottom: 8rem;
+}
+
+.sibling {
+    position: relative;
+    top: 0px; 
+    transition: top 0.5s ease; 
+}
+
+.sibling.down {
+    transition: top 0.5s ease; 
+    top: 50px
+}
+
+.pp-card {
+    flex-basis: 50%;
+}
+
+.arrow-icon-dropdown {
+    margin-right: 9px;
+}
+
+
+
+@media (min-width: 768px) {
+    .projects {
+        flex-flow: row wrap; 
+    }
+}
