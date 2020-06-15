@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/portfolio-app/static/css/main.c446d755.chunk.css",
+    "main.js": "/portfolio-app/static/js/main.16dff390.chunk.js",
+    "main.js.map": "/portfolio-app/static/js/main.16dff390.chunk.js.map",
+    "runtime-main.js": "/portfolio-app/static/js/runtime-main.147ed822.js",
+    "runtime-main.js.map": "/portfolio-app/static/js/runtime-main.147ed822.js.map",
+    "static/js/2.23c639c3.chunk.js": "/portfolio-app/static/js/2.23c639c3.chunk.js",
+    "static/js/2.23c639c3.chunk.js.map": "/portfolio-app/static/js/2.23c639c3.chunk.js.map",
+    "index.html": "/portfolio-app/index.html",
+    "precache-manifest.ed83811d1d53469ac0346dcded95a92e.js": "/portfolio-app/precache-manifest.ed83811d1d53469ac0346dcded95a92e.js",
+    "service-worker.js": "/portfolio-app/service-worker.js",
+    "static/css/main.c446d755.chunk.css.map": "/portfolio-app/static/css/main.c446d755.chunk.css.map",
+    "static/js/2.23c639c3.chunk.js.LICENSE.txt": "/portfolio-app/static/js/2.23c639c3.chunk.js.LICENSE.txt",
+    "static/media/calculator.3872404b.png": "/portfolio-app/static/media/calculator.3872404b.png",
+    "static/media/down-arrow.svg": "/portfolio-app/static/media/down-arrow.e3f21cbd.svg",
+    "static/media/etchasketch.970893a5.png": "/portfolio-app/static/media/etchasketch.970893a5.png",
+    "static/media/googlehomepage.6639411b.png": "/portfolio-app/static/media/googlehomepage.6639411b.png",
+    "static/media/librarypage.54db0408.png": "/portfolio-app/static/media/librarypage.54db0408.png",
+    "static/media/newsweek.f1e7ccae.png": "/portfolio-app/static/media/newsweek.f1e7ccae.png",
+    "static/media/newyorktimes.f0d1a94e.png": "/portfolio-app/static/media/newyorktimes.f0d1a94e.png",
+    "static/media/portfolio.6d58babf.png": "/portfolio-app/static/media/portfolio.6d58babf.png",
+    "static/media/index.css": "/portfolio-app/static/media/profileimg.a39d3628.jpg",
+    "static/media/restaurant.b81dbff9.png": "/portfolio-app/static/media/restaurant.b81dbff9.png",
+    "static/media/rockpaperscissors.6be5e5b2.png": "/portfolio-app/static/media/rockpaperscissors.6be5e5b2.png",
+    "static/media/tictactoe.073a8334.png": "/portfolio-app/static/media/tictactoe.073a8334.png",
+    "static/media/tnw.c6fa586c.png": "/portfolio-app/static/media/tnw.c6fa586c.png",
+    "static/media/todolist.2588f488.png": "/portfolio-app/static/media/todolist.2588f488.png",
+    "static/media/weather.e2a281a4.png": "/portfolio-app/static/media/weather.e2a281a4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.147ed822.js",
+    "static/js/2.23c639c3.chunk.js",
+    "static/css/main.c446d755.chunk.css",
+    "static/js/main.16dff390.chunk.js"
+  ]
+}
