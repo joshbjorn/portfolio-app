@@ -173,7 +173,7 @@ class App extends Component  {
             <div id={project.title} onClick={this.getID} className="project-card card" style={projectBgImg}>
               <div id={project.title} className="inner-card">
                   <div className="inner card-title">
-                    <h3>Year</h3>
+                    <h3>{project.year}</h3>
                   </div>
               </div>
             </div>
@@ -202,7 +202,7 @@ class App extends Component  {
 
   render() {
     return (
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <div className="App">
           <div className="container-fluid wrapper">
               <Route 

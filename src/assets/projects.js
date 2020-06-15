@@ -23,7 +23,8 @@ const projects = [
       tags: ['javascript', 'react'],
       image: weatherAppImg,
       url: 'https://joshbjorn.github.io/weather-app ',
-      github: 'https://github.com/joshbjorn/weather-app/tree/master'
+      github: 'https://github.com/joshbjorn/weather-app/tree/master',
+      year: "2020"
     },
     {
       title: 'Newsweek Clone',
@@ -33,7 +34,8 @@ const projects = [
       tags: ['htmlCss', 'bootstrap', 'responsive'],
       image: newsweekImg,
       url: 'https://joshbjorn.github.io/newsweek-clone',
-      github: 'https://github.com/joshbjorn/newsweek-clone'
+      github: 'https://github.com/joshbjorn/newsweek-clone',
+      year: "2020"
     },
     {
       title: 'Library',
@@ -43,7 +45,8 @@ const projects = [
       image: libraryPageImg,
       tags: ['javascript'],
       url: 'https://joshbjorn.github.io/library',
-      github: 'https://github.com/joshbjorn/library'
+      github: 'https://github.com/joshbjorn/library', 
+      year: "2019"
     },
     {
       title: 'Tic Tac Toe',
@@ -53,7 +56,8 @@ const projects = [
       image: tictactoeImg,
       tags: ['javascript'],
       url: 'https://joshbjorn.github.io/tictactoe',
-      github: 'https://github.com/joshbjorn/tictactoe'
+      github: 'https://github.com/joshbjorn/tictactoe',
+      year: "2019"
     },
     {
       title: 'The Next Web Clone',
@@ -63,7 +67,8 @@ const projects = [
       image: tnwImg,
       tags: ['htmlCss', 'responsive'],
       url: 'https://joshbjorn.github.io/the-next-web-clone',
-      github: 'https://github.com/joshbjorn/the-next-web-clone'
+      github: 'https://github.com/joshbjorn/the-next-web-clone',
+      year: "2020"
     },
     {
       title: 'Restaurant page',
@@ -73,7 +78,8 @@ const projects = [
       image: restaurantImg,
       tags: ['javascript'],
       url: 'https://joshbjorn.github.io/restaurant-page/',
-      github: 'https://github.com/joshbjorn/restaurant-page '
+      github: 'https://github.com/joshbjorn/restaurant-page',
+      year: "2019"
     },
     {
       title: 'Library (React)',
@@ -83,7 +89,8 @@ const projects = [
       image: libraryPageImg,
       tags: ['javascript', 'react'],
       url: ' https://joshbjorn.github.io/library-app-react/',
-      github: 'https://github.com/joshbjorn/library-app-react'
+      github: 'https://github.com/joshbjorn/library-app-react',
+      year: "2020"
     },
     {
       title: 'New York Times Article Clone',
@@ -93,7 +100,8 @@ const projects = [
       image: newyorktimesImg,
       tags: ['htmlCss'],
       url: 'https://joshbjorn.github.io/new-york-times-clone',
-      github: 'https://github.com/joshbjorn/new-york-times-clone'
+      github: 'https://github.com/joshbjorn/new-york-times-clone',
+      year: "2020"
     },
     {
       title: 'Etch-a-sketch',
@@ -103,7 +111,8 @@ const projects = [
       image: etchasketchImg,
       tags: ['javascript'],
       url:'https://joshbjorn.github.io/etch-a-sketch', 
-      github: 'https://github.com/joshbjorn/etch-a-sketch'
+      github: 'https://github.com/joshbjorn/etch-a-sketch',
+      year: '2019',
     },
     {
       title: 'Calculator',
@@ -113,7 +122,8 @@ const projects = [
       image: calculatorAppImg,
       tags: ['javascript'],
       url: 'https://joshbjorn.github.io/calculator/',
-      github: 'https://github.com/joshbjorn/calculator'
+      github: 'https://github.com/joshbjorn/calculator', 
+      year: "2019"
     },
     {
       title: 'Rock, Paper, Scissors',
@@ -123,7 +133,8 @@ const projects = [
       image: rpsImg,
       tags: ['javascript'],
       url: 'https://joshbjorn.github.io/rock-paper-scissors',
-      github: 'https://github.com/joshbjorn/rock-paper-scissors'
+      github: 'https://github.com/joshbjorn/rock-paper-scissors',
+      year: '2019'
     },
     {
       title: 'Todo List',
@@ -141,8 +152,8 @@ const projects = [
       tools: 'Javascript, React, Bootstrap',
       image: portfolioImg,
       tags: ['javascript', 'responsive', 'react', 'bootstrap'],
-      url: 'You\'re lookin\' at me',
-      github: ''
+      url: 'https://joshbjorn.github.io/portfolio-app/',
+      github: 'https://github.com/joshbjorn/portfolio-app'
     },
     
     {
@@ -152,7 +163,8 @@ const projects = [
       image: googleHomepageImg,
       tags: ['htmlCss'],
       url: 'https://joshbjorn.github.io/google-homepage',
-      github: 'https://github.com/joshbjorn/google-homepage'
+      github: 'https://github.com/joshbjorn/google-homepage',
+      year: '2019'
     },
 ]
 
