@@ -35,10 +35,10 @@ class Navbar extends Component {
         return (
             <div className="w-100 header-container">
                 <header className="w-100 px-0 navbar navbar-light d-flex justify-content-between">
-                    <a className="navbar-brand d-flex align-items-center" href="/">
+                    <Link className="navbar-brand d-flex align-items-center" to="/">
                         <div className="brand-img" height="44px" width="44px"></div> 
                         Joshua Carew
-                    </a> 
+                    </Link> 
                     <nav className="nav-links">
                         <Link 
                             className="about-link d-none d-sm-inline" 
